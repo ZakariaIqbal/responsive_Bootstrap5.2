@@ -1,6 +1,6 @@
 # responsive_Bootstrap5.2
 
-5 conceptsfor Responsive
+5 concepts for Responsive
 
   1. Breakpoints. [br](https://getbootstrap.com/docs/5.2/layout/breakpoints/)
   2. Containers.(container-fluid). [con](https://getbootstrap.com/docs/5.2/layout/containers/)
